@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Kane",
+    "rarity": 150000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-202126.ae01d52866785596873aa5d0c0cd2e060b6cad1d91d78b08c2be575d2118cab0.webp",
+    "rarityLabel": "Uncommon"
+  },
+  {
+    "name": "Neymar Jr",
+    "rarity": 150000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-190871.0a164d7350d883932a82838509016319c98e577725f626f8b5d1aa35e185b746.webp",
+    "rarityLabel": "Uncommon"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "rarity": 100000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-100684097.e07566b50b17987a619b55d76d3584ffbf9b4b8e79c2b4e43d7ae56d53c6d43a.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Messi",
+    "rarity": 100000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-50489671.35762f2d1cf5d2a158d3b2ded71897d88aabfb0a01237cdbf2b2965811d7b024.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Pelé",
+    "rarity": 2500,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-84123147.9783d95885dcd24d46ce45bf7cf03e53bfa1519e46ca1023c01cda1902f98ec7.webp",
+    "rarityLabel": "Exotic"
+  },
+  {
+    "name": "Antony",
+    "rarity": 200000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-255475.833d7df1a98314272214ece07ed5ebed01dd8d01331f62aa49ffe57aff8eab2f.webp",
+    "rarityLabel": "Uncommon"
+  },
+  {
+    "name": "Son",
+    "rarity": 150000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-200104.66e1b1bbe0d60b5819dfa2860088b0e36afe4bec88ded6c7bcd94f32e283fb18.webp",
+    "rarityLabel": "Uncommon"
+  },
+  {
+    "name": "Roberto Carlos",
+    "rarity": 15000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-67347294.503944a885626857506f9d941037a36affeb51c71135b7d9cce47eaf48c55bff.webp",
+    "rarityLabel": "Legendary"
+  },
+  {
+    "name": "Gullit",
+    "rarity": 50000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-214100.d5608fbbd4442cde9ee8c32eafedb1c85aab2a1457f895f1374f770ebd245333.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Messi",
+    "rarity": 10000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-117598535.fc40c39e44bc680863a389fc62fd46f686ca917689b7585458aab2ed91ed3dc5.webp",
+    "rarityLabel": "Legendary"
+  },
+  {
+    "name": "Son",
+    "rarity": 50000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-100863400.29abb85d9f47eb5779fcc592b7a274eee671f98e2c4aa1e8837f010596ab3bc3.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "rarity": 15000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-83906881.4c0b5d175e40197ce647002480a3dc4df8892f4f4fc59a40c7b62d22773da640.webp",
+    "rarityLabel": "Legendary"
+  },
+  {
+    "name": "Salah",
+    "rarity": 25000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-184758707.57c9078098aab396b81840476c50e232e4af2784a524bfe8ea03b497a4a054b6.webp",
+    "rarityLabel": "Epic"
+  },
+  {
+    "name": "van Dijk",
+    "rarity": 50000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-134421104.23c6339496e517f5653e5a2c3018abc5f468d0757995352ee1b8e1fb89f35957.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "De Bruyne",
+    "rarity": 25000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-100856281.7a8d83efc9643c1c662d0ea9201adc61c808c80b973a8e5c5f98f02604843c0f.webp",
+    "rarityLabel": "Epic"
+  },
+  {
+    "name": "Reus",
+    "rarity": 50000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-100851646.b83145715f4e2a6143217ca77435df181233bb2cc7e7e44f3ff7a22c0154862f.webp",
+    "rarityLabel": "Epic"
+  },
+  {
+    "name": "Neuer",
+    "rarity": 200000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-167495.aaa72562f1bbd93c3f29040c4aa8314ddc288b1d991c9bdd819b721f2dc274a8.webp",
+    "rarityLabel": "Uncommon"
+  },
+  {
+    "name": "Vieira",
+    "rarity": 25000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-50570075.349e1df21f973f49a03feff5312a5755d035d0040403595a4321aa2569ad3f3d.webp",
+    "rarityLabel": "Epic"
+  },
+  {
+    "name": "Ronaldo",
+    "rarity": 15000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-50369224.c34773ee6b4300fe40dbfdedf3f7e13233e820afe1c174035d5c193f32b085c4.webp",
+    "rarityLabel": "Legendary"
+  },
+  {
+    "name": "Maldini",
+    "rarity": 10000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-84124519.0fbb26f615297ba154ef64eab562cd6fdbb91913592a11610720dd329737e76a.webp",
+    "rarityLabel": "Mythic"
+  },
+  {
+    "name": "van Dijk",
+    "rarity": 10000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-151198320.453a639d944a67d6eb3ca33480efa1c1d5bb4d471a0f74f5876ec7549a4e237d.webp",
+    "rarityLabel": "Mythic"
+  },
+  {
+    "name": "Bellingham",
+    "rarity": 10000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-134470099.f18743497698530e92820b9a7e872b9edeeaf5c8184b9e04941b16beeea82384.webp",
+    "rarityLabel": "Mythic"
+  },
+  {
+    "name": "Alexander-Arnold",
+    "rarity": 15000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-100894577.81b3127b31ccf5e2d9cead3db03da9d4e36d3783dbd16164fe25a91c8135059c.webp",
+    "rarityLabel": "Legendary"
+  },
+  {
+    "name": "Mbappé",
+    "rarity": 7500,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-201558339.a69143c144c183e75e70c2e8daf9504990371924cfd27298da4f617eb983c06c.webp",
+    "rarityLabel": "Mythic"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "rarity": 10000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-151015745.c8147399c883dd0dbe9afb7c0ccd277a7de42d11de55dc216292d17d3e427447.webp",
+    "rarityLabel": "Mythic"
+  },
+  {
+    "name": "Messi",
+    "rarity": 1000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-167930183.4569564d56a97a984a316390abcfd6f7bdbc5594ff070906005c2ed010a2cca4.webp",
+    "rarityLabel": "GOAT"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "rarity": 1000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-167792961.8c27429cc1e1335789298fe224741b8e0bb3b0d44a1e731d06960b8c537f52b7.webp",
+    "rarityLabel": "GOAT"
+  },
+  {
+    "name": "De Paul",
+    "rarity": 2500,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-84098696.a6600f27e74d919cf961821656a2934a6de24654758c9b3c033cba9cc86e4bd4.webp",
+    "rarityLabel": "Exotic"
+  },
+  {
+    "name": "Ronaldinho",
+    "rarity": 7500,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-67136994.9a0accb34f825fa6a6f590f7630929c8a33ed04f150af9e26bce69f66d8f489c.webp",
+    "rarityLabel": "Mythic"
+  },
+  {
+    "name": "Bellingham",
+    "rarity": 7500,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-184801747.8252b7a576e2812082555e2f68f09cc4ed926f3a4bf08e812d23e8d06e4fea00.webp",
+    "rarityLabel": "Mythic"
+  },
+  {
+    "name": "De Bruyne",
+    "rarity": 7500,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-151187929.08dd9d15372dc68bff0aff9b6ca4a2e32aff7611f4b7b70d8b102484615fdd8f.webp",
+    "rarityLabel": "Mythic"
+  },
+  {
+    "name": "Salah",
+    "rarity": 2500,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-235090355.74fd60fbcdde4e7f51060ab12714cea468e7dad2e624af92aa522a0ccfbeb4e5.webp",
+    "rarityLabel": "Exotic"
+  },
+  {
+    "name": "Tevez",
+    "rarity": 15000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-84161046.9dbb0db8e786612adc6df5f064a61f5012de4c906cdf0b613839e970ab7af5d8.webp",
+    "rarityLabel": "Legendary"
+  },
+  {
+    "name": "Ronaldinho",
+    "rarity": 100000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-28130.d060b8bdd6159d8f1f75d8e0f6b4b28b51f4e43e084c5b5fb7f830ffc87f1713.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Eusébio",
+    "rarity": 100000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-242519.1e897f096a81ddcbec233843496718a91b5e02de0954ae3bc276215c533859f8.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Palmer",
+    "rarity": 50000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-117698046.a19a2a56f32b5d431b5ad6e3a7b1c3999e1f62cd8cc3d3b5392ebf602cede240.webp",
+    "rarityLabel": "Epic"
+  },
+  {
+    "name": "Modric",
+    "rarity": 150000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-177003.651e84d68fc271515b7bbd84a51b233030ee49bd1bf58f98bfa56f5c38aa7ef2.webp",
+    "rarityLabel": "Uncommon"
+  },
+  {
+    "name": "Sancho",
+    "rarity": 50000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-67341913.8f45e3f7e5e1a2e8837ce45fb5de63e32e656f83078e060b36aa9cfaf0ad5ec7.webp",
+    "rarityLabel": "Epic"
+  },
+  {
+    "name": "Foden",
+    "rarity": 50000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-151232636.ed6e0826cde2fa2adb90b7fbd3c239bbc922236e99b6ce9aa3685c5588d9bcc7.webp",
+    "rarityLabel": "Epic"
+  },
+  {
+    "name": "Mbappé",
+    "rarity": 100000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-67340611.3d31c75d83a02da0fbf9c09e62a9e87d4fcb3bbd772fb10052537ee824088ad9.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Dembélé",
+    "rarity": 150000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-67340307.02849017248d615b434de922fa2d945c38c1d0e8cf29d131dcccc5fdb0f9b87f.webp",
+    "rarityLabel": "Uncommon"
+  },
+  {
+    "name": "Valverde",
+    "rarity": 100000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-50570701.a7b7536fae42119bdf8280e460ad62a3c9560f424e8a400b756f01e2091e22df.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Milito",
+    "rarity": 75000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-50593919.4ff6204860766613c2bad8079a56cc9289e95a50208a836d65d4aa31f358c8fa.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Mascherano",
+    "rarity": 50000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-50474402.c00543632f64b2cc89640a548498d54bbdda4eee3413b6362780dd23870b2825.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Son",
+    "rarity": 50000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-167972264.2b33ae749f54eac97892564538a13c806faf2d1839a941ed8481de0fe1228b5b.webp",
+    "rarityLabel": "Epic"
+  },
+  {
+    "name": "Ginola",
+    "rarity": 150000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-191972.4830dae6595e9947f0abec88e066584a4bfc119ccbf987327ad91c61d55d029d.webp",
+    "rarityLabel": "Uncommon"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "rarity": 75000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-67129665.713f1cc100b18d5e1f3ab935a5eb93f718bab78b6703635ee4f4ae61bd863984.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Zidane",
+    "rarity": 75000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-67110261.d2a498b1767fa9aeb8c2f36987c06b66eb7ecd21762b9fdc91b5bb2870153252.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "rarity": 75000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-67129665.713f1cc100b18d5e1f3ab935a5eb93f718bab78b6703635ee4f4ae61bd863984.webp",
+    "rarityLabel": "Rare"
+  },
+  {
+    "name": "Gomez",
+    "rarity": 100000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-50556748.eba140668eb879f672fa3868bf5890b88a4630ca0402f5f3914dc20c177b328d.webp",
+    "rarityLabel": "Uncommon"
+  },
+  {
+    "name": "Guler",
+    "rarity": 100000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-50595957.37ba3a2faf9740fefff4e5747cf62510e175cb8cbd9ecba70dafe899b5d5c37c.webp",
+    "rarityLabel": "Uncommon"
+  },
+  {
+    "name": "de Jong",
+    "rarity": 100000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-50560350.9c28ded8838bfd58cd50f5567211da01a33630fccc4963111a7992fefeb406da.webp",
+    "rarityLabel": "Uncommon"
+  },
+  {
+    "name": "João Félix",
+    "rarity": 150000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-84128524.d7977fca1103d55b1045d9f315abe3f1665a82aa5a93479ef75b0d3b2dc605fb.webp",
+    "rarityLabel": "Uncommon"
+  },
+  {
+    "name": "Mitoma",
+    "rarity": 150000,
+    "img": "https://game-assets.fut.gg/2024/futgg-player-item-card/24-67364429.ce90a1e1a31dde822e36096ccceb3f834ecb91bb5fb2bb64d5004a2910f44b3e.webp",
+    "rarityLabel": "Uncommon"
+  }
+]
